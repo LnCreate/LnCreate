@@ -8,4 +8,3 @@
 LnCreate/LnCreate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-这个库是使用LSTM进行滚动轴承RUL预测的代码
